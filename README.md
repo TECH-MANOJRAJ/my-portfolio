@@ -20,3 +20,7 @@ Everything lives in `src/data.ts`: `profile`, `education`, `skills`, `projects`,
 - Vercel / Netlify: import the repo; build `npm run build`; output `dist`.
 - GitHub Pages: set `base: "/repo-name/"` in `vite.config.ts`, build, publish `dist`.
 - After deploying, add a canonical link, `og:url` and `og:image` in `index.html`.
+
+## View My Live Portfolio
+
+[Click here to visit my portfolio website](https://manojraj-portfolio-2026.s3.eu-north-1.amazonaws.com/index.html)
